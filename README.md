@@ -1,16 +1,33 @@
-## Hi there 👋
+# Nielsen Campos
 
-<!--
-**nielsencampos/nielsencampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Data Systems Engineer
 
-Here are some ideas to get you started:
+I build scalable, data-intensive systems using Python, AWS, and modern data architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### Chess Reporter
+A modular backend system for chess game analysis.
+
+- PGN processing and structured data pipelines
+- Engine evaluation and position-level analytics
+- Domain-driven design and graph-based modeling
+- DuckDB-based analytical storage
+
+🔗 https://github.com/nielsencampos/chess-reporter
+
+## ⚙️ Tech Stack
+
+- Python
+- AWS
+- Snowflake
+- Airflow / dbt
+- DuckDB
+- Distributed Systems
+
+## 🧠 Focus
+
+- Backend Systems
+- Data Platforms
+- Scalable Architectures
+- Analytics & ML-ready pipelines
